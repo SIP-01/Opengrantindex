@@ -1,5 +1,5 @@
 {
-  "ranAt": 1791027356,
+  "ranAt": 1791044092,
   "sources": [
     {
       "id": "nlnet",
@@ -7,7 +7,7 @@
       "items": 17,
       "new": 0,
       "errors": [],
-      "durationMs": 975
+      "durationMs": 1459
     },
     {
       "id": "sovereign-tech",
@@ -33,7 +33,7 @@
       "items": 500,
       "new": 0,
       "errors": [],
-      "durationMs": 311
+      "durationMs": 757
     },
     {
       "id": "nsf",
@@ -41,7 +41,7 @@
       "items": 8,
       "new": 0,
       "errors": [],
-      "durationMs": 132
+      "durationMs": 123
     },
     {
       "id": "nih",
@@ -51,15 +51,15 @@
       "errors": [
         "https://grants.nih.gov/news/nih-guide-rss.xml: HTTP 404 Not Found for https://grants.nih.gov/news/nih-guide-rss.xml"
       ],
-      "durationMs": 210
+      "durationMs": 249
     },
     {
       "id": "eu-horizon",
       "status": "ok",
-      "items": 180,
+      "items": 198,
       "new": 1,
       "errors": [],
-      "durationMs": 16934
+      "durationMs": 17267
     },
     {
       "id": "gitcoin",
@@ -76,7 +76,7 @@
       "items": 32,
       "new": 0,
       "errors": [],
-      "durationMs": 254
+      "durationMs": 284
     },
     {
       "id": "opensats",
@@ -84,7 +84,7 @@
       "items": 7,
       "new": 0,
       "errors": [],
-      "durationMs": 283
+      "durationMs": 226
     },
     {
       "id": "mozilla",
@@ -92,7 +92,7 @@
       "items": 2,
       "new": 0,
       "errors": [],
-      "durationMs": 301
+      "durationMs": 566
     },
     {
       "id": "linux-foundation",
@@ -100,7 +100,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 1,
+      "durationMs": 0,
       "reason": "no supported adapter for endpoint kinds: html"
     },
     {
@@ -116,9 +116,9 @@
       "id": "github-bounties",
       "status": "ok",
       "items": 100,
-      "new": 16,
+      "new": 6,
       "errors": [],
-      "durationMs": 1185
+      "durationMs": 1740
     },
     {
       "id": "manifund",
@@ -126,7 +126,7 @@
       "items": 99,
       "new": 2,
       "errors": [],
-      "durationMs": 3719
+      "durationMs": 946
     },
     {
       "id": "nih-reporter",
@@ -134,7 +134,7 @@
       "items": 200,
       "new": 0,
       "errors": [],
-      "durationMs": 228
+      "durationMs": 991
     },
     {
       "id": "grantmakers-io",
@@ -169,7 +169,7 @@
       "items": 20,
       "new": 0,
       "errors": [],
-      "durationMs": 745
+      "durationMs": 1231
     },
     {
       "id": "wellcome",
@@ -195,7 +195,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 1,
+      "durationMs": 0,
       "reason": "no supported adapter for endpoint kinds: api"
     },
     {
@@ -231,7 +231,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 154
+      "durationMs": 208
     }
   ]
 }
