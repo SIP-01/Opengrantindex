@@ -1,5 +1,5 @@
 {
-  "ranAt": 1791244894,
+  "ranAt": 1791267364,
   "sources": [
     {
       "id": "nlnet",
@@ -7,7 +7,7 @@
       "items": 16,
       "new": 0,
       "errors": [],
-      "durationMs": 1354
+      "durationMs": 1362
     },
     {
       "id": "sovereign-tech",
@@ -33,7 +33,7 @@
       "items": 500,
       "new": 0,
       "errors": [],
-      "durationMs": 310
+      "durationMs": 509
     },
     {
       "id": "nsf",
@@ -41,7 +41,7 @@
       "items": 12,
       "new": 0,
       "errors": [],
-      "durationMs": 89
+      "durationMs": 211
     },
     {
       "id": "nih",
@@ -51,15 +51,15 @@
       "errors": [
         "https://grants.nih.gov/news/nih-guide-rss.xml: HTTP 404 Not Found for https://grants.nih.gov/news/nih-guide-rss.xml"
       ],
-      "durationMs": 194
+      "durationMs": 266
     },
     {
       "id": "eu-horizon",
       "status": "ok",
-      "items": 184,
-      "new": 13,
+      "items": 200,
+      "new": 0,
       "errors": [],
-      "durationMs": 18975
+      "durationMs": 19580
     },
     {
       "id": "gitcoin",
@@ -76,7 +76,7 @@
       "items": 32,
       "new": 0,
       "errors": [],
-      "durationMs": 733
+      "durationMs": 218
     },
     {
       "id": "opensats",
@@ -84,7 +84,7 @@
       "items": 6,
       "new": 0,
       "errors": [],
-      "durationMs": 173
+      "durationMs": 157
     },
     {
       "id": "mozilla",
@@ -92,7 +92,7 @@
       "items": 2,
       "new": 0,
       "errors": [],
-      "durationMs": 374
+      "durationMs": 320
     },
     {
       "id": "linux-foundation",
@@ -116,17 +116,17 @@
       "id": "github-bounties",
       "status": "ok",
       "items": 100,
-      "new": 64,
+      "new": 6,
       "errors": [],
-      "durationMs": 1188
+      "durationMs": 1387
     },
     {
       "id": "manifund",
       "status": "ok",
       "items": 96,
-      "new": 5,
+      "new": 2,
       "errors": [],
-      "durationMs": 2194
+      "durationMs": 1398
     },
     {
       "id": "nih-reporter",
@@ -134,7 +134,7 @@
       "items": 200,
       "new": 0,
       "errors": [],
-      "durationMs": 261
+      "durationMs": 721
     },
     {
       "id": "grantmakers-io",
@@ -169,7 +169,7 @@
       "items": 20,
       "new": 0,
       "errors": [],
-      "durationMs": 623
+      "durationMs": 808
     },
     {
       "id": "wellcome",
@@ -231,7 +231,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 179
+      "durationMs": 346
     }
   ]
 }
