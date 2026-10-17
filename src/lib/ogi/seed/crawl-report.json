@@ -1,5 +1,5 @@
 {
-  "ranAt": 1792250988,
+  "ranAt": 1792269198,
   "sources": [
     {
       "id": "nlnet",
@@ -7,7 +7,7 @@
       "items": 17,
       "new": 0,
       "errors": [],
-      "durationMs": 1049
+      "durationMs": 1504
     },
     {
       "id": "sovereign-tech",
@@ -33,7 +33,7 @@
       "items": 500,
       "new": 0,
       "errors": [],
-      "durationMs": 336
+      "durationMs": 588
     },
     {
       "id": "nsf",
@@ -41,7 +41,7 @@
       "items": 9,
       "new": 0,
       "errors": [],
-      "durationMs": 186
+      "durationMs": 329
     },
     {
       "id": "nih",
@@ -51,15 +51,17 @@
       "errors": [
         "https://grants.nih.gov/news/nih-guide-rss.xml: HTTP 404 Not Found for https://grants.nih.gov/news/nih-guide-rss.xml"
       ],
-      "durationMs": 170
+      "durationMs": 289
     },
     {
       "id": "eu-horizon",
       "status": "ok",
-      "items": 186,
+      "items": 0,
       "new": 0,
-      "errors": [],
-      "durationMs": 17183
+      "errors": [
+        "https://api.tech.ec.europa.eu/search-api/prod/rest/search page 1: HTTP 500 Internal Server Error for https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA&text=***&pageSize=50&pageNumber=1"
+      ],
+      "durationMs": 89737
     },
     {
       "id": "gitcoin",
@@ -76,7 +78,7 @@
       "items": 31,
       "new": 0,
       "errors": [],
-      "durationMs": 300
+      "durationMs": 550
     },
     {
       "id": "opensats",
@@ -84,7 +86,7 @@
       "items": 10,
       "new": 0,
       "errors": [],
-      "durationMs": 226
+      "durationMs": 398
     },
     {
       "id": "mozilla",
@@ -92,7 +94,7 @@
       "items": 2,
       "new": 0,
       "errors": [],
-      "durationMs": 433
+      "durationMs": 653
     },
     {
       "id": "linux-foundation",
@@ -116,9 +118,9 @@
       "id": "github-bounties",
       "status": "ok",
       "items": 100,
-      "new": 3,
+      "new": 0,
       "errors": [],
-      "durationMs": 1264
+      "durationMs": 1506
     },
     {
       "id": "manifund",
@@ -126,7 +128,7 @@
       "items": 95,
       "new": 1,
       "errors": [],
-      "durationMs": 1719
+      "durationMs": 1653
     },
     {
       "id": "nih-reporter",
@@ -134,7 +136,7 @@
       "items": 200,
       "new": 0,
       "errors": [],
-      "durationMs": 246
+      "durationMs": 851
     },
     {
       "id": "grantmakers-io",
@@ -169,7 +171,7 @@
       "items": 19,
       "new": 0,
       "errors": [],
-      "durationMs": 821
+      "durationMs": 997
     },
     {
       "id": "wellcome",
@@ -231,7 +233,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 240
+      "durationMs": 382
     }
   ]
 }
