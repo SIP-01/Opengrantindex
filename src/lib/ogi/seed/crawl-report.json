@@ -1,5 +1,5 @@
 {
-  "ranAt": 1792297598,
+  "ranAt": 1792321189,
   "sources": [
     {
       "id": "nlnet",
@@ -7,7 +7,7 @@
       "items": 17,
       "new": 0,
       "errors": [],
-      "durationMs": 1351
+      "durationMs": 1412
     },
     {
       "id": "sovereign-tech",
@@ -33,15 +33,15 @@
       "items": 500,
       "new": 0,
       "errors": [],
-      "durationMs": 562
+      "durationMs": 678
     },
     {
       "id": "nsf",
       "status": "ok",
-      "items": 9,
-      "new": 0,
+      "items": 10,
+      "new": 1,
       "errors": [],
-      "durationMs": 142
+      "durationMs": 226
     },
     {
       "id": "nih",
@@ -51,15 +51,15 @@
       "errors": [
         "https://grants.nih.gov/news/nih-guide-rss.xml: HTTP 404 Not Found for https://grants.nih.gov/news/nih-guide-rss.xml"
       ],
-      "durationMs": 289
+      "durationMs": 258
     },
     {
       "id": "eu-horizon",
       "status": "ok",
-      "items": 175,
+      "items": 189,
       "new": 0,
       "errors": [],
-      "durationMs": 17105
+      "durationMs": 17331
     },
     {
       "id": "gitcoin",
@@ -76,7 +76,7 @@
       "items": 31,
       "new": 0,
       "errors": [],
-      "durationMs": 376
+      "durationMs": 391
     },
     {
       "id": "opensats",
@@ -84,7 +84,7 @@
       "items": 10,
       "new": 0,
       "errors": [],
-      "durationMs": 131
+      "durationMs": 343
     },
     {
       "id": "mozilla",
@@ -92,7 +92,7 @@
       "items": 2,
       "new": 0,
       "errors": [],
-      "durationMs": 419
+      "durationMs": 493
     },
     {
       "id": "linux-foundation",
@@ -116,27 +116,25 @@
       "id": "github-bounties",
       "status": "ok",
       "items": 100,
-      "new": 28,
+      "new": 2,
       "errors": [],
-      "durationMs": 1305
+      "durationMs": 1631
     },
     {
       "id": "manifund",
       "status": "ok",
       "items": 95,
-      "new": 2,
+      "new": 1,
       "errors": [],
-      "durationMs": 1403
+      "durationMs": 1434
     },
     {
       "id": "nih-reporter",
       "status": "ok",
-      "items": 0,
+      "items": 200,
       "new": 0,
-      "errors": [
-        "https://api.reporter.nih.gov/v2/projects/search: HTTP 404 Not Found for https://api.reporter.nih.gov/v2/projects/search"
-      ],
-      "durationMs": 2071
+      "errors": [],
+      "durationMs": 723
     },
     {
       "id": "grantmakers-io",
@@ -171,7 +169,7 @@
       "items": 19,
       "new": 0,
       "errors": [],
-      "durationMs": 736
+      "durationMs": 1007
     },
     {
       "id": "wellcome",
@@ -233,7 +231,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 205
+      "durationMs": 148
     }
   ]
 }
