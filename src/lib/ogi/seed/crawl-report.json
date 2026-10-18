@@ -1,5 +1,5 @@
 {
-  "ranAt": 1792269198,
+  "ranAt": 1792297598,
   "sources": [
     {
       "id": "nlnet",
@@ -7,7 +7,7 @@
       "items": 17,
       "new": 0,
       "errors": [],
-      "durationMs": 1504
+      "durationMs": 1351
     },
     {
       "id": "sovereign-tech",
@@ -33,7 +33,7 @@
       "items": 500,
       "new": 0,
       "errors": [],
-      "durationMs": 588
+      "durationMs": 562
     },
     {
       "id": "nsf",
@@ -41,7 +41,7 @@
       "items": 9,
       "new": 0,
       "errors": [],
-      "durationMs": 329
+      "durationMs": 142
     },
     {
       "id": "nih",
@@ -56,12 +56,10 @@
     {
       "id": "eu-horizon",
       "status": "ok",
-      "items": 0,
+      "items": 175,
       "new": 0,
-      "errors": [
-        "https://api.tech.ec.europa.eu/search-api/prod/rest/search page 1: HTTP 500 Internal Server Error for https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA&text=***&pageSize=50&pageNumber=1"
-      ],
-      "durationMs": 89737
+      "errors": [],
+      "durationMs": 17105
     },
     {
       "id": "gitcoin",
@@ -78,7 +76,7 @@
       "items": 31,
       "new": 0,
       "errors": [],
-      "durationMs": 550
+      "durationMs": 376
     },
     {
       "id": "opensats",
@@ -86,7 +84,7 @@
       "items": 10,
       "new": 0,
       "errors": [],
-      "durationMs": 398
+      "durationMs": 131
     },
     {
       "id": "mozilla",
@@ -94,7 +92,7 @@
       "items": 2,
       "new": 0,
       "errors": [],
-      "durationMs": 653
+      "durationMs": 419
     },
     {
       "id": "linux-foundation",
@@ -111,32 +109,34 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 0,
+      "durationMs": 1,
       "reason": "no supported adapter for endpoint kinds: graphql"
     },
     {
       "id": "github-bounties",
       "status": "ok",
       "items": 100,
-      "new": 0,
+      "new": 28,
       "errors": [],
-      "durationMs": 1506
+      "durationMs": 1305
     },
     {
       "id": "manifund",
       "status": "ok",
       "items": 95,
-      "new": 1,
+      "new": 2,
       "errors": [],
-      "durationMs": 1653
+      "durationMs": 1403
     },
     {
       "id": "nih-reporter",
       "status": "ok",
-      "items": 200,
+      "items": 0,
       "new": 0,
-      "errors": [],
-      "durationMs": 851
+      "errors": [
+        "https://api.reporter.nih.gov/v2/projects/search: HTTP 404 Not Found for https://api.reporter.nih.gov/v2/projects/search"
+      ],
+      "durationMs": 2071
     },
     {
       "id": "grantmakers-io",
@@ -171,7 +171,7 @@
       "items": 19,
       "new": 0,
       "errors": [],
-      "durationMs": 997
+      "durationMs": 736
     },
     {
       "id": "wellcome",
@@ -233,7 +233,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 382
+      "durationMs": 205
     }
   ]
 }
