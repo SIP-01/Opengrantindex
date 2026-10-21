@@ -1,5 +1,5 @@
 {
-  "ranAt": 1792602487,
+  "ranAt": 1792618735,
   "sources": [
     {
       "id": "nlnet",
@@ -7,7 +7,7 @@
       "items": 14,
       "new": 0,
       "errors": [],
-      "durationMs": 1254
+      "durationMs": 1099
     },
     {
       "id": "sovereign-tech",
@@ -33,15 +33,15 @@
       "items": 500,
       "new": 0,
       "errors": [],
-      "durationMs": 545
+      "durationMs": 584
     },
     {
       "id": "nsf",
       "status": "ok",
-      "items": 10,
+      "items": 9,
       "new": 0,
       "errors": [],
-      "durationMs": 194
+      "durationMs": 205
     },
     {
       "id": "nih",
@@ -51,15 +51,15 @@
       "errors": [
         "https://grants.nih.gov/news/nih-guide-rss.xml: HTTP 404 Not Found for https://grants.nih.gov/news/nih-guide-rss.xml"
       ],
-      "durationMs": 405
+      "durationMs": 388
     },
     {
       "id": "eu-horizon",
       "status": "ok",
-      "items": 172,
-      "new": 1,
+      "items": 166,
+      "new": 0,
       "errors": [],
-      "durationMs": 17088
+      "durationMs": 17024
     },
     {
       "id": "gitcoin",
@@ -76,7 +76,7 @@
       "items": 30,
       "new": 0,
       "errors": [],
-      "durationMs": 381
+      "durationMs": 241
     },
     {
       "id": "opensats",
@@ -84,7 +84,7 @@
       "items": 10,
       "new": 0,
       "errors": [],
-      "durationMs": 143
+      "durationMs": 308
     },
     {
       "id": "mozilla",
@@ -92,7 +92,7 @@
       "items": 2,
       "new": 0,
       "errors": [],
-      "durationMs": 405
+      "durationMs": 675
     },
     {
       "id": "linux-foundation",
@@ -116,17 +116,17 @@
       "id": "github-bounties",
       "status": "ok",
       "items": 100,
-      "new": 22,
+      "new": 0,
       "errors": [],
-      "durationMs": 1830
+      "durationMs": 1824
     },
     {
       "id": "manifund",
       "status": "ok",
       "items": 95,
-      "new": 3,
+      "new": 2,
       "errors": [],
-      "durationMs": 2035
+      "durationMs": 1536
     },
     {
       "id": "nih-reporter",
@@ -134,7 +134,7 @@
       "items": 200,
       "new": 0,
       "errors": [],
-      "durationMs": 719
+      "durationMs": 678
     },
     {
       "id": "grantmakers-io",
@@ -167,9 +167,9 @@
       "id": "ukri",
       "status": "ok",
       "items": 19,
-      "new": 1,
+      "new": 0,
       "errors": [],
-      "durationMs": 873
+      "durationMs": 1021
     },
     {
       "id": "wellcome",
@@ -231,7 +231,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 187
+      "durationMs": 284
     }
   ]
 }
