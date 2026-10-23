@@ -1,5 +1,5 @@
 {
-  "ranAt": 1792704741,
+  "ranAt": 1792730663,
   "sources": [
     {
       "id": "nlnet",
@@ -7,7 +7,7 @@
       "items": 14,
       "new": 0,
       "errors": [],
-      "durationMs": 1291
+      "durationMs": 1102
     },
     {
       "id": "sovereign-tech",
@@ -15,7 +15,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 1,
+      "durationMs": 0,
       "reason": "no supported adapter for endpoint kinds: html, sitemap"
     },
     {
@@ -33,15 +33,15 @@
       "items": 500,
       "new": 0,
       "errors": [],
-      "durationMs": 649
+      "durationMs": 438
     },
     {
       "id": "nsf",
       "status": "ok",
-      "items": 8,
+      "items": 7,
       "new": 0,
       "errors": [],
-      "durationMs": 323
+      "durationMs": 134
     },
     {
       "id": "nih",
@@ -51,15 +51,15 @@
       "errors": [
         "https://grants.nih.gov/news/nih-guide-rss.xml: HTTP 404 Not Found for https://grants.nih.gov/news/nih-guide-rss.xml"
       ],
-      "durationMs": 406
+      "durationMs": 408
     },
     {
       "id": "eu-horizon",
       "status": "ok",
-      "items": 191,
+      "items": 172,
       "new": 0,
       "errors": [],
-      "durationMs": 17249
+      "durationMs": 17574
     },
     {
       "id": "gitcoin",
@@ -67,7 +67,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 1,
+      "durationMs": 0,
       "reason": "no supported adapter for endpoint kinds: graphql"
     },
     {
@@ -76,7 +76,7 @@
       "items": 30,
       "new": 0,
       "errors": [],
-      "durationMs": 541
+      "durationMs": 260
     },
     {
       "id": "opensats",
@@ -84,7 +84,7 @@
       "items": 10,
       "new": 0,
       "errors": [],
-      "durationMs": 317
+      "durationMs": 220
     },
     {
       "id": "mozilla",
@@ -92,7 +92,7 @@
       "items": 2,
       "new": 0,
       "errors": [],
-      "durationMs": 550
+      "durationMs": 252
     },
     {
       "id": "linux-foundation",
@@ -109,24 +109,24 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 0,
+      "durationMs": 1,
       "reason": "no supported adapter for endpoint kinds: graphql"
     },
     {
       "id": "github-bounties",
       "status": "ok",
       "items": 100,
-      "new": 5,
+      "new": 3,
       "errors": [],
-      "durationMs": 1632
+      "durationMs": 1480
     },
     {
       "id": "manifund",
       "status": "ok",
       "items": 97,
-      "new": 3,
+      "new": 2,
       "errors": [],
-      "durationMs": 963
+      "durationMs": 1205
     },
     {
       "id": "nih-reporter",
@@ -134,7 +134,7 @@
       "items": 200,
       "new": 0,
       "errors": [],
-      "durationMs": 801
+      "durationMs": 416
     },
     {
       "id": "grantmakers-io",
@@ -169,7 +169,7 @@
       "items": 19,
       "new": 0,
       "errors": [],
-      "durationMs": 1056
+      "durationMs": 838
     },
     {
       "id": "wellcome",
@@ -231,7 +231,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 324
+      "durationMs": 184
     }
   ]
 }
