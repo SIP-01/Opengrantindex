@@ -261,3 +261,9 @@ An OGI client computes a per-opportunity trust score from, in order of weight:
 
 The score is advisory and computed locally. Two readers with different trust roots will see
 different rankings of the same corpus — this is a feature, not a bug.
+
+## Interoperability status (2026-11-12)
+
+- NIP-51 kind-30003 saved-opportunity sets currently publish public `a` references only. Private NIP-44-encrypted bookmark sets are not implemented in this application.
+- The local publisher/source trust score described above is OGI-specific. It is not NIP-85, and OGI does not yet consume the shared SIP-01 NIP-85 provider/policy implementation.
+- NIP-73 URL normalization here is OGI's stricter application identity (removes `www`, tracking parameters and fragments). Do not assume this byte identity is interchangeable with generic NIP-73 normalization in other clients; cross-app link matching must compare the canonical OGI URL contract deliberately.
