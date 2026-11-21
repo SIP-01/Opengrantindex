@@ -1,5 +1,5 @@
 {
-  "ranAt": 1795205324,
+  "ranAt": 1795244412,
   "sources": [
     {
       "id": "nlnet",
@@ -7,7 +7,7 @@
       "items": 18,
       "new": 0,
       "errors": [],
-      "durationMs": 1490
+      "durationMs": 1038
     },
     {
       "id": "sovereign-tech",
@@ -15,7 +15,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 1,
+      "durationMs": 0,
       "reason": "no supported adapter for endpoint kinds: html, sitemap"
     },
     {
@@ -33,7 +33,7 @@
       "items": 500,
       "new": 0,
       "errors": [],
-      "durationMs": 639
+      "durationMs": 199
     },
     {
       "id": "nsf",
@@ -41,7 +41,7 @@
       "items": 4,
       "new": 0,
       "errors": [],
-      "durationMs": 242
+      "durationMs": 35
     },
     {
       "id": "nih",
@@ -51,7 +51,7 @@
       "errors": [
         "https://grants.nih.gov/news/nih-guide-rss.xml: HTTP 404 Not Found for https://grants.nih.gov/news/nih-guide-rss.xml"
       ],
-      "durationMs": 353
+      "durationMs": 266
     },
     {
       "id": "eu-horizon",
@@ -59,7 +59,7 @@
       "items": 200,
       "new": 0,
       "errors": [],
-      "durationMs": 17302
+      "durationMs": 16825
     },
     {
       "id": "gitcoin",
@@ -73,10 +73,10 @@
     {
       "id": "ethereum-esp",
       "status": "ok",
-      "items": 31,
+      "items": 30,
       "new": 0,
       "errors": [],
-      "durationMs": 337
+      "durationMs": 82
     },
     {
       "id": "opensats",
@@ -84,15 +84,15 @@
       "items": 8,
       "new": 0,
       "errors": [],
-      "durationMs": 181
+      "durationMs": 88
     },
     {
       "id": "mozilla",
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 385
+      "durationMs": 135
     },
     {
       "id": "linux-foundation",
@@ -115,18 +115,18 @@
     {
       "id": "github-bounties",
       "status": "ok",
-      "items": 99,
-      "new": 26,
+      "items": 100,
+      "new": 47,
       "errors": [],
-      "durationMs": 1757
+      "durationMs": 1306
     },
     {
       "id": "manifund",
       "status": "ok",
-      "items": 95,
-      "new": 3,
+      "items": 94,
+      "new": 10,
       "errors": [],
-      "durationMs": 932
+      "durationMs": 858
     },
     {
       "id": "nih-reporter",
@@ -134,7 +134,7 @@
       "items": 200,
       "new": 0,
       "errors": [],
-      "durationMs": 741
+      "durationMs": 417
     },
     {
       "id": "grantmakers-io",
@@ -169,7 +169,7 @@
       "items": 20,
       "new": 0,
       "errors": [],
-      "durationMs": 730
+      "durationMs": 590
     },
     {
       "id": "wellcome",
@@ -231,7 +231,7 @@
       "items": 0,
       "new": 0,
       "errors": [],
-      "durationMs": 169
+      "durationMs": 33
     }
   ]
 }
